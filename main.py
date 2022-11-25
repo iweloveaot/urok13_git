@@ -1,5 +1,5 @@
 def print_hi(name):
-    a = 'aot'
+    a = '- aot lover'
     print(f'Hi, {name}' + a)  # Press Ctrl+F8 to toggle the breakpoint.
 
 
