@@ -1,5 +1,6 @@
 def print_hi(name):
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    a = 'aot'
+    print(f'Hi, {name}' + a)  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 if __name__ == '__main__':
